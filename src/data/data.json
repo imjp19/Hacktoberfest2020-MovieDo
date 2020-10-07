@@ -19,5 +19,10 @@
     "name": "Chhello Divas",
     "desc": "Chhello Divas is Gujarati urban movie. It is the most entirtenmentilm in gujarati.",
     "rate": "⭐⭐⭐⭐⭐"
+  },
+    {
+    "name": "The Godfather",
+    "desc": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "rate": "⭐⭐⭐⭐⭐"
   }
 ]
