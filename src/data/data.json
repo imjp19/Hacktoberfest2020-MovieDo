@@ -19,5 +19,15 @@
     "name": "Chhello Divas",
     "desc": "Chhello Divas is Gujarati urban movie. It is the most entirtenmentilm in gujarati.",
     "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "name": "The Social Network",
+    "desc": "The biographical drama film on founder of facebook",
+    "rate": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "name": "Super 30",
+    "desc": "A film on indian teacher who teaches poor students for free to crack JEE exam.",
+    "rate": "⭐⭐⭐⭐⭐"
   }
 ]
